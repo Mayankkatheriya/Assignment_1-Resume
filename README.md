@@ -4,13 +4,13 @@
 
 here,
 <br/>
-h1 : this tag is used for the main heading
+<b>h1</b> : this tag is used for the main heading
 <br/>
-p : this tag is used for the paragraph writing
+<b>p</b> : this tag is used for the paragraph writing
 <br/>
-a href : this tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
+<b>a href</b> : this tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
 <br/>
-hr : this tag fot the horizontal line.
+<b>hr</b> : this tag fot the horizontal line.
   
 ![22](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7e862060-bf6a-4e84-bdd4-4b04c0605c43)
 ![2](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/6faf8b63-b7ae-4be2-bd42-e70af807585a)
