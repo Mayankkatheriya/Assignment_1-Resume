@@ -1,16 +1,17 @@
 # Assignment_1-Resume
 ![11](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/bfea427f-e880-4a7f-b3b5-0efdf199ca69)
 ![1](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/185f2e85-7190-4a30-b47d-ecfc4ff9527d)
+<br/>
 here,
-
+<br/>
 <b>h1</b> : this tag is used for the main heading
-
+<br/>
 <b>p</b> : this tag is used for the paragraph writing
-
+<br/>
 <b>a href</b> : this tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
-
+<br/>
 <b>hr</b> : this tag fot the horizontal line.
-
+<br/>
 ![22](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7e862060-bf6a-4e84-bdd4-4b04c0605c43)
 ![2](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/6faf8b63-b7ae-4be2-bd42-e70af807585a)
 <br/>
