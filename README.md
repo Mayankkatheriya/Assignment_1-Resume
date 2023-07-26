@@ -11,7 +11,7 @@ here,
 <b>a href</b> : this tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
 <br/>
 <b>hr</b> : this tag fot the horizontal line.
-  
+<br/>
 ![22](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7e862060-bf6a-4e84-bdd4-4b04c0605c43)
 ![2](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/6faf8b63-b7ae-4be2-bd42-e70af807585a)
 
@@ -22,6 +22,7 @@ here we use some new tags
 <b>h3</b> : this tag is used for the 3rd  heading
 <br/>
 <b>br</b> : this tag id used to give line break in our paragraph.
+<br/>
 ![33](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/b98e1984-a80c-4438-88d9-523581129223)
 ![3](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/aad0727c-4a59-4840-b478-283ef86d3ed2)
 
