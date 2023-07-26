@@ -3,9 +3,13 @@
 ![1](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/185f2e85-7190-4a30-b47d-ecfc4ff9527d)
 
 here,
+<br/>
 h1 : this tag is used for the main heading
+<br/>
 p : this tag is used for the paragraph writing
+<br/>
 a href : this tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
+<br/>
 hr : this tag fot the horizontal line.
   
 ![22](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7e862060-bf6a-4e84-bdd4-4b04c0605c43)
