@@ -34,7 +34,6 @@ we used tpe attribute here inside ul tag to disc symbol before our text
 <br/>
 <b>li</b> : this tag is used inside ul command
 <br/>
-![33](htt
 ![44](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/3ba8c791-e32f-4b33-adab-afce33be529a)
 ![4](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/1130b298-d0cb-4cca-a227-057af408badc)
 
