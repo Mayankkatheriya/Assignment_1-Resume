@@ -30,13 +30,21 @@ here we use some new tags
 <br/>
 <b>ul</b> : this tag is used for listing something(unordered)
 <br/>
-we used tpe attribute here inside ul tag to disc symbol before our text
+we used type attribute here inside ul tag to disc symbol before our text
 <br/>
 <b>li</b> : this tag is used inside ul command
 <br/>
 ![44](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/3ba8c791-e32f-4b33-adab-afce33be529a)
 ![4](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/1130b298-d0cb-4cca-a227-057af408badc)
-
+<br/>
+here we use some new tags
+<br/>
+<b>ol</b> : this tag is used for listing something(ordered)
+<br/>
+we used type attribute here inside ol tag to give numbering before our text
+<br/>
+<b>li</b> : this tag is used inside ol command
+<br/>
 ![55](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/79c68576-4e76-4145-bce7-18a09097e3c8)
 ![5](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/2fbf6ed8-2358-4233-950f-98aff68382c5)
 
