@@ -58,4 +58,8 @@ here we use some new tags
 <br/>
 ![66](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7f0988a9-cf24-40bd-96cf-ac2ac5c4e007)
 ![6](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/db88bb73-23ba-43a0-b0fa-615be46301f6)
-
+<br/>
+here we use some new tags
+<br/>
+<b>pre</b> :Text in a <pre> element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed exactly as written in the HTML source code.
+<br/>
