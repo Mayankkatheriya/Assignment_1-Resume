@@ -3,10 +3,10 @@
 ![1](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/185f2e85-7190-4a30-b47d-ecfc4ff9527d)
 
 here,
-<h1> tag is used for the main heading
-<p> tag is used for the paragraph writing
-<a href> tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
-in last we use <hr> tag fot the horizontal line.
+h1 : this tag is used for the main heading
+p : this tag is used for the paragraph writing
+a href : this tag is used to give link here, in <a> tag we use tarhet attribute to redirect the link on a different tab
+hr : this tag fot the horizontal line.
   
 ![22](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7e862060-bf6a-4e84-bdd4-4b04c0605c43)
 ![2](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/6faf8b63-b7ae-4be2-bd42-e70af807585a)
