@@ -47,7 +47,15 @@ we used type attribute here inside ol tag to give numbering before our text
 <br/>
 ![55](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/79c68576-4e76-4145-bce7-18a09097e3c8)
 ![5](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/2fbf6ed8-2358-4233-950f-98aff68382c5)
-
+<br/>
+here we use some new tags
+<br/>
+<b>dl</b> : The dl HTML element represents a description list
+<br/>
+<b>dt</b> : The element encloses a list of groups of terms (specified using the dt element)
+<br/>
+<b>dd</b> : descriptions (provided by dd elements)
+<br/>
 ![66](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/7f0988a9-cf24-40bd-96cf-ac2ac5c4e007)
 ![6](https://github.com/Mayankkatheriya/Assignment_1-Resume/assets/128832286/db88bb73-23ba-43a0-b0fa-615be46301f6)
 
